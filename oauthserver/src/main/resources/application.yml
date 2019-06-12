@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: oauth2-server
+  security:
+    user:
+      # \u8D26\u53F7
+      name: root
+      # \u5BC6\u7801
+      password: 123456
+
+server:
+  port: 8080
